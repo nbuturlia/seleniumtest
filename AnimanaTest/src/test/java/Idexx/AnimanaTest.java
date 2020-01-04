@@ -1,3 +1,15 @@
+/*Assignment test:
+Create a project using selenium,Java to do the following :
+
+1. Open  Page https://test.animana.com/web2/login
+2. Login
+3. Select the location Hilversum
+4. Search for client Atopica
+5. Assert the search result
+6. Run on local chrome/Firefox browser
+
+Tools to be used for Test: Maven,Selenium
+*/
 package Idexx;
 
 import java.util.concurrent.TimeUnit;
